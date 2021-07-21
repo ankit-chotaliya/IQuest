@@ -1,0 +1,1282 @@
+[05-Jul-2021 04:41:46 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/rushilsh/qualifind.rushilshah.in/blog.php on line 3
+[05-Jul-2021 04:41:48 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/rushilsh/qualifind.rushilshah.in/blog.php on line 3
+[05-Jul-2021 04:41:49 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/rushilsh/qualifind.rushilshah.in/blog.php on line 3
+[05-Jul-2021 07:47:56 UTC] PHP Notice:  Undefined index: j_postdate in /home/rushilsh/qualifind.rushilshah.in/findajob.php on line 246
+[05-Jul-2021 09:25:49 UTC] PHP Parse error:  syntax error, unexpected '"' AND '"' (T_CONSTANT_ENCAPSED_STRING) in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 4
+[05-Jul-2021 09:25:55 UTC] PHP Parse error:  syntax error, unexpected '"' AND '"' (T_CONSTANT_ENCAPSED_STRING) in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 4
+[05-Jul-2021 09:27:23 UTC] PHP Parse error:  syntax error, unexpected '"' AND '"' (T_CONSTANT_ENCAPSED_STRING) in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 4
+[05-Jul-2021 11:58:07 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:13 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:17 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:28 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:58:29 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 33
+[05-Jul-2021 11:59:24 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 4
+[05-Jul-2021 11:59:52 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 5
+[05-Jul-2021 12:00:42 UTC] PHP Notice:  Undefined index: selectedlocation2 in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 5
+[05-Jul-2021 12:01:30 UTC] PHP Notice:  Undefined index: selectedlocation2 in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 5
+[05-Jul-2021 12:02:41 UTC] PHP Notice:  Undefined index: selectedlocation2 in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 5
+[05-Jul-2021 12:02:46 UTC] PHP Notice:  Undefined index: selectedlocation2 in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 5
+[05-Jul-2021 12:02:51 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 40
+[05-Jul-2021 12:02:53 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 40
+[05-Jul-2021 12:04:27 UTC] PHP Notice:  Undefined index: selectedlocation in /home/rushilsh/qualifind.rushilshah.in/fetch.php on line 38
+[06-Jul-2021 07:27:28 UTC] PHP Notice:  Undefined index: cat in /home/rushilsh/qualifind.rushilshah.in/findajob.php on line 9
+[06-Jul-2021 08:12:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rushilsh/qualifind.rushilshah.in/findajob.php on line 66
+[06-Jul-2021 08:13:00 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rushilsh/qualifind.rushilshah.in/findajob.php on line 66
+[06-Jul-2021 10:50:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rushilsh/qualifind.rushilshah.in/findajob.php on line 216
+[06-Jul-2021 10:50:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rushilsh/qualifind.rushilshah.in/findajob.php on line 216
+[07-Jul-2021 08:21:49 UTC] PHP Notice:  A non well formed numeric value encountered in /home/rushilsh/qualifind.rushilshah.in/findajob.php on line 257
+[07-Jul-2021 08:22:29 UTC] PHP Notice:  A non well formed numeric value encountered in /home/rushilsh/qualifind.rushilshah.in/findajob.php on line 257
+[07-Jul-2021 09:32:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rushilsh/qualifind.rushilshah.in/include/header.php:123) in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 11
+[07-Jul-2021 09:32:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rushilsh/qualifind.rushilshah.in/include/header.php:123) in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 11
+[07-Jul-2021 10:24:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:26:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:28:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:31:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:31:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 210
+[07-Jul-2021 10:32:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:32:24 UTC] PHP Notice:  Undefined index: r_cdesc in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 210
+[07-Jul-2021 10:32:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:32:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 210
+[07-Jul-2021 10:34:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:41:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:42:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:42:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 250
+[07-Jul-2021 10:42:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 251
+[07-Jul-2021 10:42:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:44:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:45:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:45:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 265
+[07-Jul-2021 10:45:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:46:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:46:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 269
+[07-Jul-2021 10:47:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:49:31 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 253
+[07-Jul-2021 10:49:34 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 253
+[07-Jul-2021 10:49:47 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 253
+[07-Jul-2021 10:49:55 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 253
+[07-Jul-2021 10:49:58 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 253
+[07-Jul-2021 10:51:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:51:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:55:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 196
+[07-Jul-2021 10:55:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 196
+[07-Jul-2021 10:57:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:58:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 10:58:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[07-Jul-2021 11:00:48 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT), expecting ']' in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[08-Jul-2021 12:27:27 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:27:27 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:27:27 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:27:59 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:27:59 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:27:59 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:16 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:16 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:16 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:27 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:27 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:27 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:41 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:41 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:41 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:44 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:44 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:28:44 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:12 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:12 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:12 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:27 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:27 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:27 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:32 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:32 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:29:32 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 79
+[08-Jul-2021 12:30:09 UTC] PHP Notice:  Undefined variable: sql in /home/rushilsh/qualifind.rushilshah.in/index.php on line 80
+[08-Jul-2021 12:30:09 UTC] PHP Notice:  Trying to get property '' of non-object in /home/rushilsh/qualifind.rushilshah.in/index.php on line 80
+[08-Jul-2021 12:30:09 UTC] PHP Fatal error:  Uncaught Error: Object of class PDO could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/index.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/index.php on line 80
+[08-Jul-2021 13:18:14 UTC] PHP Notice:  Undefined variable: total_row in /home/rushilsh/qualifind.rushilshah.in/index.php on line 226
+[08-Jul-2021 13:18:14 UTC] PHP Notice:  Undefined variable: output in /home/rushilsh/qualifind.rushilshah.in/index.php on line 270
+[08-Jul-2021 13:19:04 UTC] PHP Notice:  Undefined variable: result in /home/rushilsh/qualifind.rushilshah.in/index.php on line 229
+[08-Jul-2021 13:19:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rushilsh/qualifind.rushilshah.in/index.php on line 229
+[09-Jul-2021 05:12:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rushilsh/qualifind.rushilshah.in/include/session.php on line 5
+[09-Jul-2021 05:12:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rushilsh/qualifind.rushilshah.in/include/session.php on line 5
+[09-Jul-2021 05:13:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rushilsh/qualifind.rushilshah.in/include/session.php on line 5
+[09-Jul-2021 05:14:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rushilsh/qualifind.rushilshah.in/include/session.php on line 5
+[09-Jul-2021 05:15:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rushilsh/qualifind.rushilshah.in/include/session.php on line 5
+[09-Jul-2021 05:15:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rushilsh/qualifind.rushilshah.in/include/session.php on line 5
+[09-Jul-2021 07:52:48 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 07:52:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 07:52:48 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 24
+[09-Jul-2021 07:52:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 24
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Undefined offset: 5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 35
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 35
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Undefined offset: 5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 35
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 35
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Undefined offset: 5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 39
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 39
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Undefined offset: 5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 40
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 40
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Undefined offset: 5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 41
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 41
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Undefined offset: 5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 42
+[09-Jul-2021 08:01:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 42
+[09-Jul-2021 08:28:59 UTC] PHP Notice:  Undefined variable: i in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 248
+[09-Jul-2021 08:28:59 UTC] PHP Notice:  Undefined index:  in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 248
+[09-Jul-2021 08:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 248
+[09-Jul-2021 08:29:24 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 08:29:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 08:29:24 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 25
+[09-Jul-2021 08:29:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 25
+[09-Jul-2021 08:56:42 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 23
+[09-Jul-2021 08:56:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 23
+[09-Jul-2021 08:56:42 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 31
+[09-Jul-2021 08:56:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 31
+[09-Jul-2021 09:08:25 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:08:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:08:25 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 35
+[09-Jul-2021 09:08:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 35
+[09-Jul-2021 09:11:49 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:11:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:11:49 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 40
+[09-Jul-2021 09:11:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 40
+[09-Jul-2021 09:12:47 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:12:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:12:47 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 40
+[09-Jul-2021 09:12:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 40
+[09-Jul-2021 09:16:24 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:16:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:16:24 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 40
+[09-Jul-2021 09:16:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 40
+[09-Jul-2021 09:21:39 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:21:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:21:39 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 44
+[09-Jul-2021 09:21:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 44
+[09-Jul-2021 09:21:39 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[09-Jul-2021 09:21:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[09-Jul-2021 09:23:51 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:23:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:23:51 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 45
+[09-Jul-2021 09:23:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 45
+[09-Jul-2021 09:23:51 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 49
+[09-Jul-2021 09:23:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 49
+[09-Jul-2021 09:24:55 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:24:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:24:55 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[09-Jul-2021 09:24:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[09-Jul-2021 09:24:55 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 51
+[09-Jul-2021 09:24:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 51
+[09-Jul-2021 09:28:49 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:28:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:28:49 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 50
+[09-Jul-2021 09:28:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 50
+[09-Jul-2021 09:28:49 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 54
+[09-Jul-2021 09:28:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 54
+[09-Jul-2021 09:29:16 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:29:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:29:16 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 49
+[09-Jul-2021 09:29:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 49
+[09-Jul-2021 09:29:16 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 53
+[09-Jul-2021 09:29:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 53
+[09-Jul-2021 09:30:21 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:30:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:30:21 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 49
+[09-Jul-2021 09:30:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 49
+[09-Jul-2021 09:30:21 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 53
+[09-Jul-2021 09:30:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 53
+[09-Jul-2021 09:34:43 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:34:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:34:43 UTC] PHP Notice:  Undefined variable: ques in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 32
+[09-Jul-2021 09:34:43 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 55
+[09-Jul-2021 09:34:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 55
+[09-Jul-2021 09:34:43 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 59
+[09-Jul-2021 09:34:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 59
+[09-Jul-2021 09:39:41 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:39:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:39:41 UTC] PHP Notice:  Undefined variable: ques in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 32
+[09-Jul-2021 09:39:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rushilsh/qualifind.rushilshah.in/include/header.php:6) in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 49
+[09-Jul-2021 09:39:57 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:39:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 18
+[09-Jul-2021 09:39:57 UTC] PHP Notice:  Undefined variable: ques in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 32
+[09-Jul-2021 09:39:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rushilsh/qualifind.rushilshah.in/include/header.php:6) in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 49
+[09-Jul-2021 09:43:28 UTC] PHP Notice:  Undefined variable: ques in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 33
+[09-Jul-2021 09:46:21 UTC] PHP Notice:  Undefined variable: ques in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 31
+[09-Jul-2021 09:47:17 UTC] PHP Notice:  Undefined variable: ques in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 31
+[09-Jul-2021 09:48:30 UTC] PHP Notice:  Undefined variable: ques in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 31
+[09-Jul-2021 10:24:43 UTC] PHP Notice:  Undefined variable: ques in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 31
+[09-Jul-2021 11:02:17 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:02:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:02:17 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:02:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:02:17 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:02:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:03:32 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:03:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:03:32 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:03:32 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:03:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:03:32 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:03:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:05:12 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:05:12 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:05:12 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:05:12 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:05:12 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:06:43 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:06:43 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:06:43 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:06:43 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:06:43 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:06:47 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:06:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:06:47 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:06:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:06:47 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:06:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:09:43 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:10:36 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:10:36 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:10:36 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:10:36 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:10:36 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:10:36 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:10:51 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:10:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:10:51 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:10:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:10:51 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:10:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:11:18 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:11:18 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:11:40 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:11:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 17
+[09-Jul-2021 11:11:40 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:11:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 56
+[09-Jul-2021 11:11:40 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:11:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 60
+[09-Jul-2021 11:26:44 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:33:38 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:33:38 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:33:38 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:33:38 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:33:38 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:33:38 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:36:30 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:36:30 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:36:30 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:36:30 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:36:30 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:36:30 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:37:40 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:37:40 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:37:40 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:37:40 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:37:40 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:37:40 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[09-Jul-2021 11:37:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rushilsh/qualifind.rushilshah.in/include/header.php:6) in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 55
+[09-Jul-2021 11:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:40:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:40:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:40:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:40:42 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:40:42 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:40:42 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:40:42 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:40:42 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:40:42 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:41:33 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:41:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:41:33 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:41:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:41:33 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:41:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:43:46 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:43:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:45:33 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:45:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:45:45 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:45:45 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:45:45 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:45:45 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:45:45 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:45:45 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[09-Jul-2021 11:45:56 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:45:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:47:14 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:47:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:47:14 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:47:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:47:14 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:47:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:47:39 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:47:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:47:39 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:47:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:47:39 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:47:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:47:43 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:47:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:47:43 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:47:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:47:43 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:47:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:48:16 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:48:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:48:16 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:48:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:48:16 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:48:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:48:33 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:48:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[09-Jul-2021 11:48:33 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:48:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 66
+[09-Jul-2021 11:48:33 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[09-Jul-2021 11:48:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 70
+[10-Jul-2021 06:19:44 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[10-Jul-2021 06:19:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[10-Jul-2021 06:19:44 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 76
+[10-Jul-2021 06:19:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 76
+[10-Jul-2021 06:19:44 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 80
+[10-Jul-2021 06:19:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 80
+[10-Jul-2021 06:24:21 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[10-Jul-2021 06:25:29 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[10-Jul-2021 06:25:29 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[10-Jul-2021 07:56:09 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 240
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Undefined index: id in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 15
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 25
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 44
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 63
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 82
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 101
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 120
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 139
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 158
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 191
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 195
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 196
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 196
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 209
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 216
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 223
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 236
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 237
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 238
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 239
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 240
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 240
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 241
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Undefined index: r_cname in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 297
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Undefined index: r_cdesc in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 298
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Undefined index: r_cname in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 300
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Undefined index: r_cwblink in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 301
+[10-Jul-2021 09:18:39 UTC] PHP Notice:  Undefined index: r_cemail in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 302
+[11-Jul-2021 06:22:54 UTC] PHP Notice:  Undefined index: j_detail in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 37
+[11-Jul-2021 06:22:55 UTC] PHP Notice:  Undefined index: j_detail in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 37
+[11-Jul-2021 07:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 211
+[11-Jul-2021 07:32:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php:208
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 208
+[11-Jul-2021 09:06:18 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 77
+[11-Jul-2021 09:06:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 77
+[11-Jul-2021 09:06:18 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 86
+[11-Jul-2021 09:06:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 86
+[11-Jul-2021 09:06:18 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 95
+[11-Jul-2021 09:06:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 95
+[11-Jul-2021 09:06:18 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 105
+[11-Jul-2021 09:06:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 105
+[11-Jul-2021 09:06:36 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 77
+[11-Jul-2021 09:06:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 77
+[11-Jul-2021 09:06:36 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 86
+[11-Jul-2021 09:06:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 86
+[11-Jul-2021 09:06:36 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 95
+[11-Jul-2021 09:06:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 95
+[11-Jul-2021 09:06:36 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 105
+[11-Jul-2021 09:06:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 105
+[11-Jul-2021 09:06:54 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 77
+[11-Jul-2021 09:06:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 77
+[11-Jul-2021 09:06:54 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 86
+[11-Jul-2021 09:06:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 86
+[11-Jul-2021 09:06:54 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 95
+[11-Jul-2021 09:06:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 95
+[11-Jul-2021 09:06:54 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 105
+[11-Jul-2021 09:06:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 105
+[11-Jul-2021 09:07:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 6
+[11-Jul-2021 09:08:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 6
+[11-Jul-2021 09:08:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 6
+[11-Jul-2021 09:17:05 UTC] PHP Notice:  Undefined index: sad_desc in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[11-Jul-2021 09:17:05 UTC] PHP Notice:  Undefined index: sad_lang in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 58
+[11-Jul-2021 09:19:16 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 140
+[11-Jul-2021 09:19:17 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 140
+[11-Jul-2021 10:24:55 UTC] PHP Notice:  Undefined index: sb_cllg in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 165
+[11-Jul-2021 12:15:06 UTC] PHP Notice:  Undefined index: j_detail in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 37
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 51
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 70
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 89
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 108
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 127
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 146
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 165
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 184
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 217
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 221
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 222
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 222
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 235
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 242
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 249
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 262
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 263
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 264
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 265
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 266
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 266
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 267
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 323
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 324
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 326
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 327
+[11-Jul-2021 13:56:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 328
+[11-Jul-2021 16:39:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[11-Jul-2021 16:39:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 69
+[11-Jul-2021 16:39:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[11-Jul-2021 16:39:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 69
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 35
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 35
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 37
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 37
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 47
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 62
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 66
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 100
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 100
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 109
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 109
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 118
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 118
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 128
+[12-Jul-2021 05:40:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 128
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 35
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 35
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 37
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 37
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 100
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 100
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 109
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 109
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 118
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 118
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 128
+[12-Jul-2021 05:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 128
+[12-Jul-2021 05:44:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 47
+[12-Jul-2021 05:44:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 62
+[12-Jul-2021 05:44:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 66
+[12-Jul-2021 05:44:44 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 100
+[12-Jul-2021 05:44:44 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 109
+[12-Jul-2021 05:44:44 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 118
+[12-Jul-2021 05:44:44 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 128
+[12-Jul-2021 05:55:57 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 51
+[12-Jul-2021 05:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 51
+[12-Jul-2021 05:55:57 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 58
+[12-Jul-2021 05:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 58
+[12-Jul-2021 05:55:57 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 92
+[12-Jul-2021 05:55:57 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 05:55:57 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 05:55:57 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 120
+[12-Jul-2021 05:56:39 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 58
+[12-Jul-2021 05:56:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 58
+[12-Jul-2021 05:56:39 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 92
+[12-Jul-2021 05:56:39 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 05:56:39 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 05:56:39 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 120
+[12-Jul-2021 05:57:33 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 58
+[12-Jul-2021 05:57:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 58
+[12-Jul-2021 05:57:33 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 92
+[12-Jul-2021 05:57:33 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 05:57:33 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 05:57:33 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 120
+[12-Jul-2021 05:58:22 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 58
+[12-Jul-2021 05:58:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 58
+[12-Jul-2021 05:58:22 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 92
+[12-Jul-2021 05:58:22 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 05:58:22 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 05:58:22 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 120
+[12-Jul-2021 06:03:52 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 100
+[12-Jul-2021 06:03:52 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 109
+[12-Jul-2021 06:03:52 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 118
+[12-Jul-2021 06:03:52 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 128
+[12-Jul-2021 06:06:14 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:07:18 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:07:19 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:07:19 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:07:21 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:07:21 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:07:21 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:07:21 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:15 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:18 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:18 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:18 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:18 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:09:21 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 101
+[12-Jul-2021 06:09:21 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 110
+[12-Jul-2021 06:09:21 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 119
+[12-Jul-2021 06:09:21 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 129
+[12-Jul-2021 06:46:19 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 54
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 73
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 92
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 111
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 130
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 149
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 168
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 187
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 220
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 224
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 225
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 225
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 238
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 245
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 252
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 265
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 266
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 267
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 268
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 269
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 269
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 270
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Undefined index: r_cname in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 326
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Undefined index: r_cdesc in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 327
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Undefined index: r_cname in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 329
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Undefined index: r_cwblink in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 330
+[12-Jul-2021 06:46:48 UTC] PHP Notice:  Undefined index: r_cemail in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 331
+[12-Jul-2021 06:47:17 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:47:43 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:47:46 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:47:50 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:47:53 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:47:56 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:48:00 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:48:02 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:48:05 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 06:48:08 UTC] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/rushilsh/qualifind.rushilshah.in/job_details.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 19
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Undefined index: s_img in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 35
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 37
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 100
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 109
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 118
+[12-Jul-2021 07:14:44 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 128
+[12-Jul-2021 09:14:31 UTC] PHP Notice:  Undefined variable: sname in /home/rushilsh/qualifind.rushilshah.in/meeting.php on line 39
+[12-Jul-2021 09:14:31 UTC] PHP Notice:  Undefined variable: semail in /home/rushilsh/qualifind.rushilshah.in/meeting.php on line 44
+[12-Jul-2021 09:14:31 UTC] PHP Notice:  Undefined variable: smbno in /home/rushilsh/qualifind.rushilshah.in/meeting.php on line 49
+[12-Jul-2021 09:14:31 UTC] PHP Notice:  Undefined variable: swpno in /home/rushilsh/qualifind.rushilshah.in/meeting.php on line 53
+[12-Jul-2021 12:11:38 UTC] PHP Warning:  include(../include/session.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/Auth/loginform.php on line 2
+[12-Jul-2021 12:11:38 UTC] PHP Warning:  include(../include/session.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/Auth/loginform.php on line 2
+[12-Jul-2021 12:11:38 UTC] PHP Warning:  include(): Failed opening '../include/session.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/Auth/loginform.php on line 2
+[12-Jul-2021 12:19:34 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:33:17 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:34:09 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/rushilsh/qualifind.rushilshah.in/video.php on line 18
+[12-Jul-2021 12:34:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 42
+[12-Jul-2021 12:34:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 51
+[12-Jul-2021 12:35:24 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/rushilsh/qualifind.rushilshah.in/video.php on line 18
+[12-Jul-2021 12:35:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 42
+[12-Jul-2021 12:35:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 51
+[12-Jul-2021 12:35:28 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/rushilsh/qualifind.rushilshah.in/video.php on line 18
+[12-Jul-2021 12:35:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 42
+[12-Jul-2021 12:35:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 51
+[12-Jul-2021 12:35:31 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/rushilsh/qualifind.rushilshah.in/video.php on line 18
+[12-Jul-2021 12:35:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 42
+[12-Jul-2021 12:35:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 51
+[12-Jul-2021 12:38:41 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:40:05 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:40:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 100
+[12-Jul-2021 12:40:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/video.php on line 109
+[12-Jul-2021 12:41:24 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:41:49 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:45:20 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:47:54 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:47:54 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:53:01 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 12:55:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 2
+[12-Jul-2021 12:55:34 UTC] PHP Warning:  include_once(../include/config.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 12:55:34 UTC] PHP Warning:  include_once(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 12:57:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 2
+[12-Jul-2021 12:57:54 UTC] PHP Warning:  include_once(../include/config.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 12:57:54 UTC] PHP Warning:  include_once(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 12:58:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 2
+[12-Jul-2021 12:58:49 UTC] PHP Warning:  include_once(../include/config.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 12:58:49 UTC] PHP Warning:  include_once(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 13:01:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 2
+[12-Jul-2021 13:01:19 UTC] PHP Warning:  include_once(../include/config.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 13:01:19 UTC] PHP Warning:  include_once(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 13:03:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 2
+[12-Jul-2021 13:03:21 UTC] PHP Warning:  include_once(../include/config.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 13:03:21 UTC] PHP Warning:  include_once(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 13:05:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 2
+[12-Jul-2021 13:05:37 UTC] PHP Warning:  include_once(../include/config.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 13:05:37 UTC] PHP Warning:  include_once(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message/users.php on line 3
+[12-Jul-2021 16:23:20 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:23:20 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 48
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[12-Jul-2021 16:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[12-Jul-2021 16:24:11 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:24:11 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 48
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[12-Jul-2021 16:24:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[12-Jul-2021 16:25:01 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:25:01 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:26:52 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:26:52 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:28:36 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:28:36 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:32:50 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:32:50 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:38:07 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:38:07 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:39:27 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:39:27 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:41:17 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:41:17 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:46:23 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:46:23 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:47:41 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:47:41 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:48:50 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:48:50 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:50:42 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:50:42 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:51:08 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:51:08 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:51:35 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:51:35 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:58:55 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 16:58:55 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:00:55 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:00:55 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:01:51 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:01:51 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:20:11 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 17:20:36 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:20:36 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:20:38 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:20:38 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:20:51 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 17:21:21 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:21:21 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:21:30 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 17:22:58 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[12-Jul-2021 17:25:48 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:25:48 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:32:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[12-Jul-2021 17:32:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[12-Jul-2021 17:32:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[12-Jul-2021 17:32:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[12-Jul-2021 17:32:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[12-Jul-2021 17:32:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[12-Jul-2021 17:43:05 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/chat.php on line 9
+[12-Jul-2021 17:43:05 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/chat.php on line 56
+[12-Jul-2021 17:43:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/chat.php on line 56
+[12-Jul-2021 17:43:05 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/chat.php on line 58
+[12-Jul-2021 17:43:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/chat.php on line 58
+[12-Jul-2021 17:43:05 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/chat.php on line 59
+[12-Jul-2021 17:43:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/chat.php on line 59
+[12-Jul-2021 17:43:18 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:43:18 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 48
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[12-Jul-2021 17:43:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[12-Jul-2021 17:43:19 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:43:19 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 48
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[12-Jul-2021 17:43:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[12-Jul-2021 17:43:45 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:43:45 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:44:24 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:44:24 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:44:45 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:44:45 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:55:45 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[12-Jul-2021 17:55:45 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[13-Jul-2021 07:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on array in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:22:12 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:22:53 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:22:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:26:09 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:27:59 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:28:36 UTC] PHP Notice:  Undefined variable: row2 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 181
+[13-Jul-2021 07:33:13 UTC] PHP Notice:  Undefined index: review in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 184
+[13-Jul-2021 07:33:13 UTC] PHP Notice:  Undefined index: review in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 184
+[13-Jul-2021 07:33:23 UTC] PHP Notice:  Undefined index: review in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 184
+[13-Jul-2021 07:33:23 UTC] PHP Notice:  Undefined index: review in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 184
+[13-Jul-2021 07:34:03 UTC] PHP Notice:  Undefined index: review in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 185
+[13-Jul-2021 07:34:03 UTC] PHP Notice:  Undefined index: review in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 185
+[13-Jul-2021 07:37:59 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 198
+[13-Jul-2021 07:37:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 198
+[13-Jul-2021 07:37:59 UTC] PHP Notice:  Undefined offset: 1 in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 198
+[13-Jul-2021 07:37:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 198
+[14-Jul-2021 05:34:11 UTC] PHP Notice:  Undefined index: name in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 5
+[14-Jul-2021 05:34:11 UTC] PHP Notice:  Undefined index: subject in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 6
+[14-Jul-2021 05:34:11 UTC] PHP Notice:  Undefined index: number in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 7
+[14-Jul-2021 05:34:11 UTC] PHP Notice:  Undefined variable: csubject in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 29
+[14-Jul-2021 05:36:06 UTC] PHP Notice:  Undefined index: name in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 5
+[14-Jul-2021 05:36:06 UTC] PHP Notice:  Undefined index: subject in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 6
+[14-Jul-2021 05:36:06 UTC] PHP Notice:  Undefined index: number in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 7
+[14-Jul-2021 05:36:06 UTC] PHP Notice:  Undefined variable: csubject in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 29
+[14-Jul-2021 05:37:24 UTC] PHP Notice:  Undefined index: name in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 5
+[14-Jul-2021 05:37:24 UTC] PHP Notice:  Undefined index: subject in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 6
+[14-Jul-2021 05:37:24 UTC] PHP Notice:  Undefined index: number in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 7
+[14-Jul-2021 05:37:24 UTC] PHP Notice:  Undefined variable: csubject in /home/rushilsh/qualifind.rushilshah.in/contact_process.php on line 29
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Undefined index: s_img in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 35
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 37
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 100
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 109
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 118
+[14-Jul-2021 06:27:27 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 128
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Undefined index: s_img in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 35
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 37
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 100
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 109
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 118
+[14-Jul-2021 06:27:40 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 128
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Undefined index: s_img in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 35
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 37
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Undefined index: s_name in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 100
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Undefined index: s_email in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 109
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Undefined index: s_mbno in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 118
+[14-Jul-2021 06:28:08 UTC] PHP Notice:  Undefined index: s_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 128
+[14-Jul-2021 06:29:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[14-Jul-2021 06:29:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[14-Jul-2021 06:29:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[14-Jul-2021 06:30:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[14-Jul-2021 06:30:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[14-Jul-2021 06:30:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[14-Jul-2021 17:04:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[14-Jul-2021 17:04:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[14-Jul-2021 17:04:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[14-Jul-2021 17:29:44 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[15-Jul-2021 05:20:16 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 05:20:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[15-Jul-2021 05:20:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[15-Jul-2021 05:20:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[15-Jul-2021 05:20:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 47
+[15-Jul-2021 05:20:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 62
+[15-Jul-2021 05:20:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 66
+[15-Jul-2021 05:22:18 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 05:23:24 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 05:24:46 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 05:28:17 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:28:17 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:28:19 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:28:19 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:28:57 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:28:57 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:30:27 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:30:27 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:45:39 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 29
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_img in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 43
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 45
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_cwblink in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 56
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_cname in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 66
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 93
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 102
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_mobno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 111
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 121
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined index: r_cdesc in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 147
+[15-Jul-2021 05:46:52 UTC] PHP Notice:  Undefined variable: getcat in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 172
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_img in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 43
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 45
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_cwblink in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 56
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_cname in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 66
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_name in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 93
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_email in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 102
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_mobno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 111
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_wpno in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 121
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined index: r_cdesc in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 147
+[15-Jul-2021 05:49:10 UTC] PHP Notice:  Undefined variable: getcat in /home/rushilsh/qualifind.rushilshah.in/profile_recruiter.php on line 172
+[15-Jul-2021 05:58:48 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:58:48 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:58:50 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:58:50 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 48
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 54
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 57
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[15-Jul-2021 05:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 60
+[15-Jul-2021 05:59:30 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 05:59:30 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 06:27:52 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 06:27:52 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 07:13:46 UTC] PHP Notice:  Undefined index: j_detail in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 41
+[15-Jul-2021 07:13:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rushilsh/qualifind.rushilshah.in/include/header.php:4) in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 345
+[15-Jul-2021 07:14:13 UTC] PHP Notice:  Undefined index: j_detail in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 42
+[15-Jul-2021 07:16:50 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[15-Jul-2021 07:16:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[15-Jul-2021 07:19:03 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[15-Jul-2021 07:19:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 19
+[15-Jul-2021 07:25:14 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[15-Jul-2021 07:25:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[15-Jul-2021 07:25:14 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 101
+[15-Jul-2021 07:25:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 101
+[15-Jul-2021 07:25:14 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 105
+[15-Jul-2021 07:25:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 105
+[15-Jul-2021 07:29:56 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[15-Jul-2021 07:29:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 27
+[15-Jul-2021 07:31:13 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 41
+[15-Jul-2021 07:31:13 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 41
+[15-Jul-2021 07:31:13 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 41
+[15-Jul-2021 07:31:13 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 41
+[15-Jul-2021 07:31:13 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 41
+[15-Jul-2021 07:31:13 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 41
+[15-Jul-2021 07:32:25 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 23
+[15-Jul-2021 07:32:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 23
+[15-Jul-2021 07:33:02 UTC] PHP Notice:  Undefined offset: 0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 23
+[15-Jul-2021 07:33:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 23
+[15-Jul-2021 07:33:26 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 37
+[15-Jul-2021 07:33:26 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 37
+[15-Jul-2021 07:33:26 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 37
+[15-Jul-2021 07:33:26 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 37
+[15-Jul-2021 07:33:26 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 37
+[15-Jul-2021 07:33:26 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 37
+[15-Jul-2021 07:39:49 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[15-Jul-2021 07:39:49 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[15-Jul-2021 07:39:49 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[15-Jul-2021 07:39:49 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[15-Jul-2021 07:39:49 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[15-Jul-2021 07:39:49 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[15-Jul-2021 07:42:33 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:42:33 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:42:33 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:42:33 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:42:33 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:42:33 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:44:00 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:44:00 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:45:05 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:45:05 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:45:05 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:45:05 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:45:05 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:45:05 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:46:33 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:46:33 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:46:33 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:46:33 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:46:33 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 07:46:33 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 10:00:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rushilsh/qualifind.rushilshah.in/include/header.php:4) in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 9
+[15-Jul-2021 10:01:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 56
+[15-Jul-2021 10:01:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 71
+[15-Jul-2021 10:01:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 75
+[15-Jul-2021 10:02:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 56
+[15-Jul-2021 10:02:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 71
+[15-Jul-2021 10:02:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 75
+[15-Jul-2021 10:03:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 56
+[15-Jul-2021 10:03:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 71
+[15-Jul-2021 10:03:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 75
+[15-Jul-2021 10:05:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 56
+[15-Jul-2021 10:05:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 71
+[15-Jul-2021 10:05:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 75
+[15-Jul-2021 11:34:04 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/rushilsh/qualifind.rushilshah.in/T&C.php on line 189
+[15-Jul-2021 11:35:35 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/rushilsh/qualifind.rushilshah.in/T&C.php on line 190
+[15-Jul-2021 11:36:08 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/rushilsh/qualifind.rushilshah.in/T&C.php on line 191
+[15-Jul-2021 12:17:02 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 12:17:02 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 12:18:28 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 12:19:00 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 12:23:52 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 12:27:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 56
+[15-Jul-2021 12:27:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 71
+[15-Jul-2021 12:27:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 75
+[15-Jul-2021 14:21:22 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 14:21:22 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 16:59:51 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 16:59:51 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:00:29 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:00:29 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:00:30 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:00:30 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:07:00 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:07:00 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:07:10 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:07:10 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:07:16 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:07:16 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:07:17 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:07:17 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option0 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option1 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option2 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option3 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option4 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option6 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option7 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option8 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:09:49 UTC] PHP Notice:  Undefined index: option9 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 17:21:10 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:21:10 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 17:25:32 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 17:27:09 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 18:07:20 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:20 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:20 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[15-Jul-2021 18:07:20 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 47
+[15-Jul-2021 18:07:20 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:20 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:20 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[15-Jul-2021 18:07:20 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 47
+[15-Jul-2021 18:07:29 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:29 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:45 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:45 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:46 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:07:46 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:08:06 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:08:06 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:16:44 UTC] PHP Notice:  Undefined index: option7 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 18:16:44 UTC] PHP Notice:  Undefined index: option8 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 18:16:44 UTC] PHP Notice:  Undefined index: option9 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[15-Jul-2021 18:18:36 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 18:18:53 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:18:53 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:19:39 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[15-Jul-2021 18:28:17 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[15-Jul-2021 18:28:17 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:46:10 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:46:10 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:46:19 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:46:19 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:46:20 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:46:20 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:51:12 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[16-Jul-2021 04:54:21 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[16-Jul-2021 04:55:12 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:55:12 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:56:46 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:56:46 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:57:05 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 04:57:05 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 05:25:30 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 05:25:30 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:25:38 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:25:38 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:27:03 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:27:03 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:29:17 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:29:17 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:29:24 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:29:24 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:29:30 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:29:30 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:29:37 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:29:37 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:42:12 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:42:12 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:42:31 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 06:42:31 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 07:27:37 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 07:27:37 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 07:36:34 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 07:36:34 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 07:44:39 UTC] PHP Notice:  Undefined index: option6 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[16-Jul-2021 07:44:39 UTC] PHP Notice:  Undefined index: option7 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[16-Jul-2021 07:44:39 UTC] PHP Notice:  Undefined index: option8 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[16-Jul-2021 07:44:39 UTC] PHP Notice:  Undefined index: option9 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 48
+[16-Jul-2021 07:46:42 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 07:46:42 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[16-Jul-2021 07:49:09 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[16-Jul-2021 07:50:29 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 04:13:23 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 04:13:23 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 06:03:33 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 06:03:33 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 06:03:33 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[17-Jul-2021 06:03:33 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 47
+[17-Jul-2021 06:03:33 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 53
+[17-Jul-2021 06:03:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 53
+[17-Jul-2021 06:03:33 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 55
+[17-Jul-2021 06:03:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 55
+[17-Jul-2021 06:03:33 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[17-Jul-2021 06:03:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[17-Jul-2021 06:07:11 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 06:07:11 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 06:37:53 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 06:37:53 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 07:34:26 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 07:34:26 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 07:34:26 UTC] PHP Notice:  Undefined index: role in /home/rushilsh/qualifind.rushilshah.in/message.php on line 11
+[17-Jul-2021 07:34:26 UTC] PHP Notice:  Undefined index: unique_id in /home/rushilsh/qualifind.rushilshah.in/message.php on line 47
+[17-Jul-2021 07:34:26 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 53
+[17-Jul-2021 07:34:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 53
+[17-Jul-2021 07:34:26 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 55
+[17-Jul-2021 07:34:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 55
+[17-Jul-2021 07:34:26 UTC] PHP Notice:  Undefined variable: row in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[17-Jul-2021 07:34:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rushilsh/qualifind.rushilshah.in/message.php on line 56
+[17-Jul-2021 07:37:28 UTC] PHP Notice:  Undefined index: j_detail in /home/rushilsh/qualifind.rushilshah.in/job_details.php on line 79
+[17-Jul-2021 07:54:36 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 07:54:36 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:06:35 UTC] PHP Notice:  Undefined index: option5 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[17-Jul-2021 08:10:08 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:10:08 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:10:44 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:11:59 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:13:05 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:14:49 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:18:39 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:18:39 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:21:56 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:21:56 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:24:52 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:24:55 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:24:55 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:25:00 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:25:00 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:34:51 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:34:51 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:35:15 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:36:44 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:38:37 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:38:37 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:38:54 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:39:01 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:39:01 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:39:57 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:40:47 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:41:38 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:41:38 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:42:38 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:43:00 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:43:00 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:43:38 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:43:38 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:43:43 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:44:54 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 08:45:01 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:45:01 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:56:26 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 08:56:26 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 09:00:58 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 09:00:58 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 09:45:43 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 09:45:43 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:02:02 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:02:02 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:02:23 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:02:23 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:06:19 UTC] PHP Notice:  Undefined index: option8 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[17-Jul-2021 10:06:19 UTC] PHP Notice:  Undefined index: option9 in /home/rushilsh/qualifind.rushilshah.in/quiz.php on line 47
+[17-Jul-2021 10:08:29 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:08:29 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:10:19 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 10:10:40 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:10:40 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:10:45 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:10:45 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rushilsh/qualifind.rushilshah.in/message.php on line 9
+[17-Jul-2021 10:11:37 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 16:08:56 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 16:11:00 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 16:11:12 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 16:13:43 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 16:14:32 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 16:16:11 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[17-Jul-2021 16:17:59 UTC] PHP Notice:  Undefined index: seeker in /home/rushilsh/qualifind.rushilshah.in/video.php on line 13
+[20-Jul-2021 09:44:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 56
+[20-Jul-2021 09:44:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 71
+[20-Jul-2021 09:44:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rushilsh/qualifind.rushilshah.in/profile_seeker.php on line 75

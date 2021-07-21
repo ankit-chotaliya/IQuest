@@ -1,0 +1,12 @@
+[14-Jul-2021 07:29:25 UTC] PHP Notice:  Undefined index: a_name in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 11
+[14-Jul-2021 07:29:25 UTC] PHP Notice:  Undefined index: a_mbno in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 13
+[14-Jul-2021 07:30:46 UTC] PHP Notice:  Undefined index: a_name in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 11
+[14-Jul-2021 07:30:46 UTC] PHP Notice:  Undefined index: a_mbno in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 13
+[14-Jul-2021 07:31:54 UTC] PHP Notice:  Undefined index: a_name in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 11
+[14-Jul-2021 07:31:54 UTC] PHP Notice:  Undefined index: a_mbno in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 13
+[14-Jul-2021 07:34:19 UTC] PHP Notice:  Undefined index: a_name in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 12
+[14-Jul-2021 07:34:19 UTC] PHP Notice:  Undefined index: a_mbno in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 14
+[14-Jul-2021 07:35:16 UTC] PHP Notice:  Undefined index: a_name in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 12
+[14-Jul-2021 07:35:16 UTC] PHP Notice:  Undefined index: a_mbno in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 14
+[14-Jul-2021 07:36:20 UTC] PHP Notice:  Undefined index: a_mbno in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 14
+[14-Jul-2021 07:39:50 UTC] PHP Notice:  Undefined index: a_mbno in /home/rushilsh/qualifind.rushilshah.in/admin/Auth/login.php on line 12
